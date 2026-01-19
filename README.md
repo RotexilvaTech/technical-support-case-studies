@@ -1,7 +1,3 @@
-Technical-Support-case-studies/
-
-├─ Laptop-Repair/
-   └─ README.md    
 # Laptop Repair & Performance Restoration
 
 ## Issue
