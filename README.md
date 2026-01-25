@@ -1,4 +1,4 @@
-#💻🪛🧰 Laptop Repair & Performance Restoration
+## 💻🪛🧰 Laptop Repair & Performance Restoration
 
 ## Issue
 - Laptop running very slow  
